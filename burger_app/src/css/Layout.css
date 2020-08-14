@@ -1,3 +1,16 @@
 .Content {
   margin-top: 16px;
+  text-align: center;
+}
+
+.LayoutBar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.LayoutLogo {
+  flex: 1;
+  flex-direction: row;
+  justify-content: flex-start;
 }
